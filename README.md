@@ -1,4 +1,4 @@
-Project 4 – Instaparse
+[Project 4 – Instaparse
 
 Submitted by: Eduardo M. Sanchez-Pereyra
 
@@ -110,7 +110,7 @@ no fill in with what i have done
 
 Got it 👍 I’ll fill it in based only on what you’ve actually implemented in your Instaparse project (camera/photo upload, time, location, blur rule, comments under caption, metadata, etc.).
 
-Here’s your completed README:
+Here’s your completed README:](https://submissions.us-east-1.linodeobjects.com/ios102_swiftUI/aYD9GqYT.gif)
 
 Project 4 – Instaparse
 
